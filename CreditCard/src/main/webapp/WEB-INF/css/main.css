@@ -1,0 +1,76 @@
+#Container {
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+#Header {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 30px;
+	color: #FFF;
+	background-color: #06F;
+	height: 150px;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	text-align: center;
+	font-style: oblique;
+	font-weight: bold;
+	background-image: url(file:///C|/Users/tempuser/Desktop/Lokesh/template/image/logo.gif);
+	background-repeat: no-repeat;
+	background-position: 0px -30px;
+	margin-bottom: 0px;
+	vertical-align: text-top;
+}
+#Footer {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	background-color: #06F;
+	height: 50px;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	text-align: right;
+	vertical-align: bottom;
+	top: 10px;
+	clip: rect(10px,auto,auto,auto);
+}
+#MainContent {
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	background-color: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+}
